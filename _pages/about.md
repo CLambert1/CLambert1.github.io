@@ -16,5 +16,5 @@ I worked on numerous species, especially seabirds and cetaceans, within various 
 
 Currently, I work with Dr David Grémillet at the CEBC lab within the framework of the EU-funded EcoScope project ("ecocentric management for sustainable fisheries and healthy ecosystems", www.ecoscopium.eu), with the objective of determining energy scapes of marine megafauna throughout the year. 
 
-Through the above tabs, you can found my complete [publication](publications.md) list, the [talks and posters](conferences.md) presented in international conferences and the details of past and current [research projects](research.html).
+Navigating the tabs above, you can found my complete [publication](publications.md) list, the [talks and posters](conferences.md) presented in international conferences and the details of past and current [research projects](research.html).
 
