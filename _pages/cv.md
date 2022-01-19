@@ -24,7 +24,7 @@ Work experience
 * Post-doc, Observatoire Pelagis, Fev 2021--Jun 2021; Oct--Dec 2021 
 "Infra-seasonal variations in habitat preferences and distribution of the common dolphin in the Bay of Biscay"
 * Task officer, oct 2019--dec 2019
-Partnership agreement between the Marine Natural Park \textit{Estuaire de la Gironde et mer des Pertuis} and La Rochelle Université
+Partnership agreement between the Marine Natural Park *Estuaire de la Gironde et mer des Pertuis* and La Rochelle Université
 * Post-doc, Observatoire Pelagis, Nov 2018--Apr 2019
 "Elucidating drivers of floating macro-debris detection and distribution in a semi-enclosed ocean basin, the Mediterranean Sea"
 * Post-doc, Observatoire Pelagis, Nov 2016--Oct 2018
