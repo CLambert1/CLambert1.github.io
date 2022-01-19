@@ -19,7 +19,7 @@ B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
 
 Experience
 -----
-Post-doc, Centre d'Etudes Biologiques de Chizé, Jan 2022--current
+Post-doc, CEBC lab, Jan 2022--current
 "Evaluation of habitats and energyscapes of mobile marine megafauna in the Mediterranean"
 
 ACCOBAMS, Jun 2021--Oct 2021
@@ -37,13 +37,13 @@ Post-doc, Observatoire Pelagis, Nov 2018--Apr 2019
 Post-doc, Observatoire Pelagis, Nov 2016--Oct 2018
 "The effect of multi-target protocol on  cetacean detection and abundance estimation in aerial survey"
 
-PhD thesis, La Rochelle Université, Oct 2013--Oct 2016 
+PhD thesis, CEBC lab, Oct 2013--Oct 2016 
 "Top predators in marine ecosystem, their response to ocean spatio-temporal variability"
 
-MSc, Université Toulouse III Paul Sabatier, Jan--Jun 2013 
+MSc, LIENSs lab, Jan--Jun 2013 
 "Predicting top predator distributions from the spatial patterns of their prey, coupling aerial surveys and ecosystemic model outputs"
 
-MSc, Université Toulouse III Paul Sabatier, jan--mar2012 
+MSc, EcoLab, Jan--Mar2012 
 "Morphometric characteristics as habitat quality indicator for Eurytemora affinis (Poppe, 1880)"
 
 Scientific surveys
