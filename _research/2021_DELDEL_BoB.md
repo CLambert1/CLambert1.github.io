@@ -9,7 +9,7 @@ location: "La Rochelle, France"
 
 **Dates**: Feb--Dec 2021
 
-**Research team**: Observatoire Pelagis UMR 3462 Université de La Rochelle – CNRS. 
+**Research team**: Observatoire Pelagis UMR 3462 La Rochelle Université – CNRS. 
 
 **Collaborators**: Dr Jérôme Spitz, Dr Matthieu Authier, Dr Sophie Laran. 
 
