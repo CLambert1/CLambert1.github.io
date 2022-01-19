@@ -15,7 +15,7 @@ Education
 * M.S., Biodiversity Ecology and Evolution, Université Toulouse III Paul Sabatier, Toulouse, 2013
 * B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
 
-Work experience
+Experience
 -----
 * Post-doc, Centre d'Etudes Biologiques de Chizé, Jan 2022--current
 "Evaluation of habitats and energyscapes of mobile marine megafauna in the Mediterranean"
@@ -46,5 +46,5 @@ PELGAS survey – Bay of Biscay: visual census of marine megafauna on-board ocea
 REMMOA survey – New Caledonia: dedicated aerial census of marine megafauna
   
 Service and leadership
-======
+-----
 * Reviews of scientific articles for peer-reviewed journals : Marine Mammal Science, Marine Biology, Ecosystems, Continental Shelf Research.
