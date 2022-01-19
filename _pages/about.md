@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ortegal](/images/Ortegal1b.png)
+![Ortegal](/images/waves2.JPG)
 
 I am a marine ecologist interested in processes determining species distributions, and mechanisms driving their variations. In particular, I look to understand how the ecological niche of marine species change over seasons and years, and how these changes impact geographical distribution of individuals. As to understand the reasons behind those changes, I integrate functional and energetics aspects into ecological niche modelling. 
 
