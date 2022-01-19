@@ -57,6 +57,6 @@ PELGAS survey – Bay of Biscay: visual census of marine megafauna on-board ocea
 Marine megafauna observer - 2014 
 REMMOA survey – New Caledonia: dedicated aerial census of marine megafauna
   
-Service and leadership
+Service
 -----
 Reviews of scientific articles for peer-reviewed journals : Marine Mammal Science, Marine Biology, Ecosystems, Continental Shelf Research.
