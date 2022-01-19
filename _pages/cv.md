@@ -11,40 +11,52 @@ redirect_from:
 
 Education
 -----
-* Ph.D, Ecology, La Rochelle Université, 2016
-* M.S., Biodiversity Ecology and Evolution, Université Toulouse III Paul Sabatier, Toulouse, 2013
-* B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
+Ph.D, Ecology, La Rochelle Université, 2016
+
+M.S., Biodiversity Ecology and Evolution, Université Toulouse III Paul Sabatier, Toulouse, 2013
+
+B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
 
 Experience
 -----
-* Post-doc, Centre d'Etudes Biologiques de Chizé, Jan 2022--current
+Post-doc, Centre d'Etudes Biologiques de Chizé, Jan 2022--current
 "Evaluation of habitats and energyscapes of mobile marine megafauna in the Mediterranean"
-* ACCOBAMS, Jun 2021--Oct 2021
+
+ACCOBAMS, Jun 2021--Oct 2021
 "Monitoring cetacean populations using multi-disciplinary surveys", Report for the Scientific Committee.
-* Post-doc, Observatoire Pelagis, Fev 2021--Jun 2021; Oct--Dec 2021 
+
+Post-doc, Observatoire Pelagis, Fev 2021--Jun 2021; Oct--Dec 2021 
 "Infra-seasonal variations in habitat preferences and distribution of the common dolphin in the Bay of Biscay"
-* Task officer, oct 2019--dec 2019
+
+Task officer, oct 2019--dec 2019
 Partnership agreement between the Marine Natural Park *Estuaire de la Gironde et mer des Pertuis* and La Rochelle Université
-* Post-doc, Observatoire Pelagis, Nov 2018--Apr 2019
+
+Post-doc, Observatoire Pelagis, Nov 2018--Apr 2019
 "Elucidating drivers of floating macro-debris detection and distribution in a semi-enclosed ocean basin, the Mediterranean Sea"
-* Post-doc, Observatoire Pelagis, Nov 2016--Oct 2018
+
+Post-doc, Observatoire Pelagis, Nov 2016--Oct 2018
 "The effect of multi-target protocol on  cetacean detection and abundance estimation in aerial survey"
-* PhD thesis, La Rochelle Université, Oct 2013--Oct 2016 
+
+PhD thesis, La Rochelle Université, Oct 2013--Oct 2016 
 "Top predators in marine ecosystem, their response to ocean spatio-temporal variability"
-* MSc, Université Toulouse III Paul Sabatier, Jan--Jun 2013 
+
+MSc, Université Toulouse III Paul Sabatier, Jan--Jun 2013 
 "Predicting top predator distributions from the spatial patterns of their prey, coupling aerial surveys and ecosystemic model outputs"
-* MSc, Université Toulouse III Paul Sabatier, jan--mar2012 
+
+MSc, Université Toulouse III Paul Sabatier, jan--mar2012 
 "Morphometric characteristics as habitat quality indicator for Eurytemora affinis (Poppe, 1880)"
 
 Scientific surveys
 -----
 Marine megafauna observer - 2019
 SPEE survey – Pertuis Charentais, Estuaire de la Gironde: dedicated aerial census of marine megafauna
-* Marine megafauna observer - 2014 
+
+Marine megafauna observer - 2014 
 PELGAS survey – Bay of Biscay: visual census of marine megafauna on-board oceanographic survey
-* Marine megafauna observer - 2014 
+
+Marine megafauna observer - 2014 
 REMMOA survey – New Caledonia: dedicated aerial census of marine megafauna
   
 Service and leadership
 -----
-* Reviews of scientific articles for peer-reviewed journals : Marine Mammal Science, Marine Biology, Ecosystems, Continental Shelf Research.
+Reviews of scientific articles for peer-reviewed journals : Marine Mammal Science, Marine Biology, Ecosystems, Continental Shelf Research.
