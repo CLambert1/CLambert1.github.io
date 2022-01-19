@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * Ph.D, Ecology, La Rochelle Université, 2016
 * M.S., Biodiversity Ecology and Evolution, Université Toulouse III Paul Sabatier, Toulouse, 2013
 * B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
 
 Work experience
-======
+-----
 * Post-doc, Centre d'Etudes Biologiques de Chizé, Jan 2022--current
 "Evaluation of habitats and energyscapes of mobile marine megafauna in the Mediterranean"
 * ACCOBAMS, Jun 2021--Oct 2021
@@ -37,26 +37,14 @@ Partnership agreement between the Marine Natural Park \textit{Estuaire de la Gir
 "Morphometric characteristics as habitat quality indicator for Eurytemora affinis (Poppe, 1880)"
 
 Scientific surveys
-======
-* Marine megafauna observer - 2019
+-----
+Marine megafauna observer - 2019
 SPEE survey – Pertuis Charentais, Estuaire de la Gironde: dedicated aerial census of marine megafauna
 * Marine megafauna observer - 2014 
 PELGAS survey – Bay of Biscay: visual census of marine megafauna on-board oceanographic survey
 * Marine megafauna observer - 2014 
 REMMOA survey – New Caledonia: dedicated aerial census of marine megafauna
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Conferences
-======
-  <ul>{% for post in site.conferences %}
-    {% include archive-single-conferences-cv.html %}
-  {% endfor %}</ul>
-    
 Service and leadership
 ======
 * Reviews of scientific articles for peer-reviewed journals : Marine Mammal Science, Marine Biology, Ecosystems, Continental Shelf Research.
