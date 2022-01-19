@@ -13,7 +13,7 @@ name                     : &name "Charlotte Lambert"
 description              : &description "Marine spatial ecology researcher, specialised on species-habitats relationships, also interested in conservation and plastic pollution mitigation."
 url                      : https://CLambert1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "CLambert1/CLambert1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,10 +29,10 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # , "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -195,15 +195,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -222,10 +213,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _conference
+  # _conferences
   - scope:
       path: ""
-      type: talks
+      type: conferences
     values:
       layout: talk
       author_profile: true
@@ -241,7 +232,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
