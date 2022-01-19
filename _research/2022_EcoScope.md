@@ -7,9 +7,9 @@ dates: 2022--current
 location: "Villiers-en-Bois, France"
 ---
 
-**Research team**: CEBC UMR 7372 Université de La Rochelle – CNRS. 
-
 **Dates**: 2022--current
+
+**Research team**: CEBC UMR 7372 Université de La Rochelle – CNRS. 
 
 **Collaborators**: Dr David Grémillet. 
 
