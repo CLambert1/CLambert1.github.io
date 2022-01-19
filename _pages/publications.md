@@ -22,9 +22,9 @@ Peer-reviewed journals
 
 **Lambert C.**, Authier M., Dorémus G., Gilles A., Hammond P., Laran S., Ricart A., Ridoux V., Scheidat M., Spitz J., Van Canneyt O. (2019) “The effect of a multi-target protocol on cetacean detection and abundance estimation in aerial surveys”. Royal Society Open Science 6: 190296. [DOI (open access paper)](10.1098/rsos.190296).
 
-Pettex E.*, **Lambert C.** *, Fort J., Dorémus G., Ridoux V. (2019) “Spatial segregation between immatures and adults in a pelagic seabird suggests age-related competition”. Journal of Avian Biology, 50, 5. [DOI](10.1111/jav.01935). *These authors contributed equally to this work
+Pettex E., **Lambert C.**, Fort J., Dorémus G., Ridoux V. (2019) “Spatial segregation between immatures and adults in a pelagic seabird suggests age-related competition”. Journal of Avian Biology, 50, 5. [DOI](10.1111/jav.01935). *EP and CL contributed equally to this work
 
-**Lambert C.**, Authier M., Doray M., Dorémus G., Spitz J., Ridoux V. (2019) “Hide and seek in the Bay of Biscay - a functional investigation of marine megafauna and small pelagic fish interactions”. ICES Journal of Marine Science, 76, 1: 113-123. [DOI](10.1093/icesjms/fsy143), [link to authoer version](https://www.researchgate.net/publication/327473972_Hide_and_seek_in_the_Bay_of_Biscay_-_a_functional_investigation_of_marine_megafauna_and_small_pelagic_fish_interactions).
+**Lambert C.**, Authier M., Doray M., Dorémus G., Spitz J., Ridoux V. (2019) “Hide and seek in the Bay of Biscay - a functional investigation of marine megafauna and small pelagic fish interactions”. ICES Journal of Marine Science, 76, 1: 113-123. [DOI](10.1093/icesjms/fsy143), [link to author version](https://www.researchgate.net/publication/327473972_Hide_and_seek_in_the_Bay_of_Biscay_-_a_functional_investigation_of_marine_megafauna_and_small_pelagic_fish_interactions).
 
 **Lambert C.**, Authier M., Doray M., Dorémus G., Spitz J., Ridoux V. (2018) “Decadal stability in top predator habitat preferences in the Bay of Biscay” Progress in Oceanography, 166: 109-120. [DOI](10.1016/j.pocean.2018.03.007), [link to author version](https://www.researchgate.net/publication/323727220_Decadal_stability_in_top_predator_habitat_preferences_in_the_Bay_of_Biscay).
 
@@ -42,7 +42,7 @@ Pettex E., Laran S., Authier M., Blanck A., Dorémus G., Falchetto H., **Lambert
 Delavenne J., Lepareur F., Witté I., Touroult J., **Lambert C.**, Pettex E., Virgili A., Siblet J-P. (2017) “Spatial conservation prioritization for mobile top predators in French waters: comparing observation rates and predicted densities as input”. Deep Sea Research II, 141: 275-284. [DOI](10.1016/j.dsr2.2017.05.
 003).
 
-**Lambert C.**, Mannocci L, Lehodey P., Ridoux V. (2014) “Predicting cetacean habitats from their energetic needs and the distribution of their prey in two contrasted tropical regions”. PLoS ONE 9 (8): e105958. [DOI to open access paper](10.1371/journal.pone.0105958).
+**Lambert C.**, Mannocci L, Lehodey P., Ridoux V. (2014) “Predicting cetacean habitats from their energetic needs and the distribution of their prey in two contrasted tropical regions”. PLoS ONE 9 (8): e105958. [DOI (open access paper)](10.1371/journal.pone.0105958).
 
 
 Technical reports
