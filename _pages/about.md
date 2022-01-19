@@ -18,3 +18,4 @@ Currently, I work with Dr David Grémillet at the CEBC lab within the framework 
 
 Navigating the tabs above, you can found my complete [publication](publications.md) list, the [talks and posters](conferences.md) presented in international conferences and the details of past and current [research projects](research.html).
 
+![Species](/images/bandeau_sp.png)
