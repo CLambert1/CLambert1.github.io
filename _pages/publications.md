@@ -49,7 +49,7 @@ Technical reports
 -----
 **Lambert C.**, Ridoux V., Dorémus G. (2021) Monitoring cetacean populations using multi-disciplinary scientific surveys. Report for the ACCOBAMS Scientific Committee. 
 
-ACCOBAMS, 2021. Estimates of abundance and distribution of cetaceans, marine mega-fauna and marine litter in the Mediterranean Sea from 2018-2019 surveys. By Panigada S., Boisseau O., Canadas A., **Lambert C.**, Laran S., McLanaghan R., Moscrop A. Ed. ACCOBAMS - ACCOBAMS Survey Initiative Project, Monaco, 177 pp. [link](https://accobams.org/fr/asi-results-for-the-mediterranean-and-black-sea-are-out/)
+ACCOBAMS (2021). Estimates of abundance and distribution of cetaceans, marine mega-fauna and marine litter in the Mediterranean Sea from 2018-2019 surveys. By Panigada S., Boisseau O., Canadas A., **Lambert C.**, Laran S., McLanaghan R., Moscrop A. Ed. ACCOBAMS - ACCOBAMS Survey Initiative Project, Monaco, 177 pp. [link](https://accobams.org/fr/asi-results-for-the-mediterranean-and-black-sea-are-out/)
 
 **Lambert C.**, Authier M., Dorémus G., Laran S., Ridoux V., Spitz J., Van Canneyt O. (2018) “Impact of observation protocol on perception and abundance estimation of small cetaceans ”. Rapport final pour le Ministère de la Transition Écologique et Solidaire. Observatoire Pelagis UMS 3462 La Rochelle Université - CNRS, 79 pp. [link to english synthesis](https://www.researchgate.net/publication/328404329_Impact_of_observation_protocol_on_perception_and_abundance_estimation_of_small_cetaceans_-_Synthesis_of_the_report_on_the_double-plateform_protocol_implemented_in_Scans_III_survey)
 
