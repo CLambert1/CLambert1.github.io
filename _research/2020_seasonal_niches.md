@@ -7,9 +7,9 @@ dates: 2018--2020
 location: "La Rochelle, France"
 ---
 
-**Research team**: LIENSs UMR 7266 La Rochelle Université - CNRS. 
-
 **Dates**: 2018--2020
+
+**Research team**: LIENSs UMR 7266 La Rochelle Université - CNRS. 
 
 **Collaborators**: Dr Jérôme Fort. 
 
