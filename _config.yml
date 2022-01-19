@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "De Charlotte Lambert"
+  name             : "Dr Charlotte Lambert"
   avatar           : "profile.png"
   bio              : "Marine spatial ecology researcher, specialised on species-habitats relationships, also interested in conservation and plastic pollution mitigation."
   location         : "La Rochelle, France"
-  employer         : "CEBC Lab"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
