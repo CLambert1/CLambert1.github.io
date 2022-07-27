@@ -14,7 +14,7 @@ author_profile: true
 
 Peer-reviewed journals
 -----
-**Lambert C.**, Fort J. (in revision) "Seasonal changes in environmental conditions are not driving migration in seabirds". In revision in Journal of Animal Ecology. https://www.authorea.com/517948.
+**Lambert C.**, Fort J. (2022) "No evidence that seasonal changes in large-scale environmental conditions drive migration in seabirds". Journal of Animal Ecology 00:1--13. [DOI](https://doi.org/10.1111/1365-2656.13759); [link to author version](https://www.researchgate.net/publication/361220867_No_evidence_that_seasonal_changes_in_large-scale_environmental_conditions_drive_migration_in_seabirds).
 
 **Lambert C.**, Dorémus G., Ridoux V. (2021) “The persistence in time of distributional patterns in marine megafauna impacts zonal conservation strategies”. Peer Community Journal 1:e39. [DOI (open access paper)](https://peercommunityjournal.org/articles/10.24072/pcjournal.46/).
 
