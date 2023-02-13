@@ -19,7 +19,7 @@ B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
 
 Experience
 -----
-Post-doc, CEBC lab, Jan 2022--current
+Post-doc, CEBC lab, Jan--Dec 2022
 "Evaluation of habitats and energyscapes of mobile marine megafauna in the Mediterranean"
 
 ACCOBAMS, Jun 2021--Oct 2021
