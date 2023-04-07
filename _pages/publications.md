@@ -14,6 +14,8 @@ author_profile: true
 
 Peer-reviewed journals
 -----
+**Lambert C.** and Virgili A. (2023) "Data stochasticity and model parametrisation impact the performance of species distribution models: insights from a simulation study". Peer Community Journal 3:e34.  [DOI (open access paper)](https://peercommunityjournal.org/articles/10.24072/pcjournal.263/).
+
 **Lambert C.**, Authier M., Blanchard A., Dorémus G., Laran S., Van Canneyt O., Spitz J. (2022) "Delayed response to environmental conditions and infra-seasonal dynamics of the short-beaked common dolphin distribution". Royal Society Open Science. [DOI](https://dx.doi.org/10.1098/rsos.220379)
 
 **Lambert C.**, Fort J. (2022) "No evidence that seasonal changes in large-scale environmental conditions drive migration in seabirds". Journal of Animal Ecology 91, 9:1813--1825. [DOI](https://doi.org/10.1111/1365-2656.13759); [link to author version](https://www.researchgate.net/publication/361220867_No_evidence_that_seasonal_changes_in_large-scale_environmental_conditions_drive_migration_in_seabirds).
