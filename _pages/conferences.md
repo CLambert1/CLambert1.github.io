@@ -7,7 +7,7 @@ author_profile: true
 
 Talks
 -----
-Lambert C., Cañadas A., Spitz J., Virgili A. and Grémillet D. (2023) "etacean energyscapes and biomass consumption of forage resources in the Mediterranean Bassin". In Annual Conference of the ECS, O Grove, Spain. 
+Lambert C., Cañadas A., Spitz J., Virgili A. and Grémillet D. (2023) "Cetacean energyscapes and biomass consumption of forage resources in the Mediterranean Bassin". In Annual Conference of the ECS, O Grove, Spain. 
 
 Lambert C., Authier M., Dorémus G., Gilles A., Hammond P., Laran S., Ricart A., Ridoux V., Scheidat M., Spitz J., Van Canneyt O. (2019) The effect of multi-target protocol on cetacean detection and abundance estimation in aerial surveys”. In World Marine Mammal Conference, Barcelona, Spain.
 
