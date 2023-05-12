@@ -11,7 +11,7 @@ location: "Villiers-en-Bois, France"
 
 **Research team**: LIENSs UMR 7266 La Rochelle Université - CNRS; CEFE UMR 5175 CNRS-Université de Montpellier - Université Paul-Valéry Montpellier - EPHE. 
 
-**Collaborators**: Dr David Grémillet. 
+**Collaborators**: Dr David Grémillet, Dr Nicolas Courbin
 
 I join, in 2022, Dr David Grémillet within the framework of the EU-funded EcoScope project ("ecocentric management for sustainable fisheries and healthy ecosystems", www.ecoscopium.eu), with the objective of determining energyscapes of marine megafauna throughout the year. Energyscapes represent variations in energetics needs of an organism through geographical space depending on occurring environmental conditions. With these estimated energyscapes, and building from knowledge of diet composition and body mass distributions in population, we will estimate the total biomass of foraged species consummed by the marine megafauna community within the Mediterranean Sea, in summer. This work is focused on a wide panel of species (cetaceans, seabirds, sea turtles, tunas, sharks, rays, swordfish) and will combine data of very different nature within a consistent statistical framework. After we obtaine such estimates, we will compare it to estimates of fish stocks and fisheries catches in the basin. 
 
