@@ -4,7 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/2022_EcoScope
 dates: 2022--current
-location: "Villiers-en-Bois, France"
+location: "La Rochelle, France"
 ---
 
 **Dates**: 2022--current
