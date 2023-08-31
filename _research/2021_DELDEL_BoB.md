@@ -19,7 +19,7 @@ We confirmed the changes in dolphin distribution are driven by the spatio-tempor
 
 The results are the first fine-scale evaluation of habitat preference changes within the winter for the common dolphin. They also provide invaluable elements that will help better understanding why dolphins bycatches increased in the last few years and inform management decisions. 
 
-This work is published in [Royal Society Open Science](https://dx.doi.org/10.1098/rsos.220379).
+This work is published in [Royal Society Open Science](https://dx.doi.org/10.1098/rsos.220379), and the Supplementary Information can be found on [GitHub](https://github.com/CLambert1/WinterBoBDd).
 
 
 
