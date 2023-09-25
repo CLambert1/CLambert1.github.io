@@ -16,6 +16,8 @@ Peer-reviewed journals
 -----
 **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between movement- and observation-based species distribution models - A simulation experiment". Submitted to Journal of Animal Ecology.
 
+Abucay et al. (2023) "Scientific knowledge gaps on the biology of non-fish marine species across European Seas". Front. Mar. Sci. 10. [DOI (open access paper)](https://www.frontiersin.org/articles/10.3389/fmars.2023.1198137/abstract)
+
 **Lambert C.** and Virgili A. (2023) "Data stochasticity and model parametrisation impact the performance of species distribution models: insights from a simulation study". Peer Community Journal 3:e34.  [DOI (open access paper)](https://peercommunityjournal.org/articles/10.24072/pcjournal.263/).
 
 **Lambert C.**, Authier M., Blanchard A., Dorémus G., Laran S., Van Canneyt O., Spitz J. (2022) "Delayed response to environmental conditions and infra-seasonal dynamics of the short-beaked common dolphin distribution". Royal Society Open Science. [DOI (open access paper)](https://dx.doi.org/10.1098/rsos.220379)
