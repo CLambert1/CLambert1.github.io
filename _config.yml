@@ -59,6 +59,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+mastodon:
+  username               : &mastodon
 facebook:
   username               :
   app_id                 :
@@ -98,6 +100,7 @@ author:
   facebook         :
   foursquare       :
   github           : "CLambert1"
+  gitlab           : "marine_spatial_ecology"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +114,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "ChaLambert90"
+  mastodon         : "@CharlotteLambert@ecoevo.social"
   vine             :
   weibo            :
   xing             :
