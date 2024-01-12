@@ -9,13 +9,13 @@ I authored various R packages either on [GitHub](https://github.com/CLambert1]) 
 
 R packages
 -----------
-<img src="/images/logo_simtools.png" alt="simtools" width="5%" height="auto"> Lambert, C. 2023. [**simtools**: A suite of tools to simulate virtual ecological systems, from environment, to animals and surveys](https://github.com/CLambert1/simtools)
+<img src="/images/logo_simtools.png" alt="simtools" width="5%" height="auto"> Lambert, C. 2024. [**simtools**: A suite of tools to simulate virtual ecological systems, from environment, to animals and surveys](https://github.com/CLambert1/simtools)
 
-<img src="/images/logo_energyscapes.png" alt="energyscapes" width="5%" height="auto"> Lambert, C. 2023.  [**energyscapes**: Estimate energyscape and biomass consumption of top predators from allometric relationships](https://github.com/CLambert1/energyscapes)
+<img src="/images/logo_energyscapes.png" alt="energyscapes" width="5%" height="auto"> Lambert, C. 2024.  [**energyscapes**: Estimate energyscape and biomass consumption of top predators from allometric relationships](https://github.com/CLambert1/energyscapes)
 
-<img src="/images/logo_phenokde.png" alt="phenokde" width="5%" height="auto"> Lambert, C. 2023.  [**phenokde**: Process KDE from geolocation data given provided phenological status](https://gitlab.univ-lr.fr/marine_spatial_ecology/phenokde) 
+<img src="/images/logo_phenokde.png" alt="phenokde" width="5%" height="auto"> Lambert, C. 2024.  [**phenokde**: Process KDE from geolocation data given provided phenological status](https://gitlab.univ-lr.fr/marine_spatial_ecology/phenokde) 
 
-<img src="/images/nichedynamics_logo.png" alt="nichedynamics" width="5%" height="auto"> Lambert, C. 2023.  [**nichedynamics**: Computation of the temporal dynamics of the niche and exploration of its intra-specific flexibility](https://gitlab.univ-lr.fr/marine_spatial_ecology/nichedynamics) 
+<img src="/images/nichedynamics_logo.png" alt="nichedynamics" width="5%" height="auto"> Lambert, C. 2024.  [**nichedynamics**: Computation of the temporal dynamics of the niche and exploration of its intra-specific flexibility](https://gitlab.univ-lr.fr/marine_spatial_ecology/nichedynamics) 
 
 
 Data repositories
