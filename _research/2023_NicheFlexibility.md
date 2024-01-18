@@ -1,5 +1,5 @@
 ---
-title: "Inter-specific flexibility in seasonal niche dynamics in Atlantic seabirds"
+title: "Intra-specific flexibility in seasonal niche dynamics in Atlantic seabirds"
 collection: research
 type: "Research"
 permalink: /research/2023_NicheFlexibility
