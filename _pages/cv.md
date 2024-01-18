@@ -19,6 +19,8 @@ B.S., Biology, Université Catholique de l'Ouest, Angers, 2011
 
 Experience
 -----
+Chargée de Recherche CNRS, LIENSs, Dec 2022--today
+
 Post-doc, CEBC lab, Jan--Dec 2022
 "Evaluation of habitats and energyscapes of mobile marine megafauna in the Mediterranean"
 
@@ -59,4 +61,5 @@ REMMOA survey – New Caledonia: dedicated aerial census of marine megafauna
   
 Service
 -----
-Reviews of scientific articles for peer-reviewed journals : Marine Mammal Science, Marine Biology, Ecosystems, Continental Shelf Research.
+Peer-review and evaluation of scientific articles in high impact journals: Frontiers in Marine Science, Diversity and Distribution, Marine Biology, Biodiversity and Conservation, Environmental Impact Assessment Review, Ecosystems, Marine Mammal Science, Continental Shelf Research. 
+Review and evaluation of scientific research projects for several funding organisms. 
