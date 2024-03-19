@@ -5,11 +5,11 @@ permalink: /codes/
 author_profile: true
 ---
 
-I authored various R packages either on [GitHub](https://github.com/CLambert1]) or on the [marine spatial ecoloy group from La Rochelle Université GItLab's](https://gitlab.univ-lr.fr/marine_spatial_ecology/nichedynamics). I also list here the various repositories created to store paper-associated R codes and data.  
+I authored various R packages either on [GitHub](https://github.com/CLambert1) or on the [marine spatial ecoloy group from La Rochelle Université GItLab's](https://gitlab.univ-lr.fr/marine_spatial_ecology/). I also list here the various repositories created to store paper-associated R codes and data.  
 
 R packages
 -----------
-<img src="/images/logo_simtools.png" alt="simtools" width="5%" height="auto"> Lambert, C. 2024. [**simtools**: A suite of tools to simulate virtual ecological systems, from environment, to animals and surveys](https://github.com/CLambert1/simtools)
+<img src="/images/logo_simtools.png" alt="simtools" width="5%" height="auto"> Lambert, C. 2024. [**simtools**: A suite of tools to simulate virtual ecological systems, from environment, to animals and surveys]([https://github.com/CLambert1/simtools](https://clambert1.github.io/simtools/articles/simulate-virtual-species.html))
 
 <img src="/images/logo_energyscapes.png" alt="energyscapes" width="5%" height="auto"> Lambert, C. 2024.  [**energyscapes**: Estimate energyscape and biomass consumption of top predators from allometric relationships](https://github.com/CLambert1/energyscapes)
 
