@@ -16,6 +16,8 @@ Peer-reviewed journals
 -----
 **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between movement- and observation-based species distribution models - A simulation experiment". Submitted to Journal of Animal Ecology.
 
+**Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Detection bias, ensemble modelling and uncertainty propagation: Implications for marine megafauna abundance assessment and conservation using a Mediterranean seabird as example". Ices JMS. 
+
 Abucay et al. (2023) "Scientific knowledge gaps on the biology of non-fish marine species across European Seas". Front. Mar. Sci. 10. [DOI (open access paper)](https://www.frontiersin.org/articles/10.3389/fmars.2023.1198137/abstract)
 
 **Lambert C.** and Virgili A. (2023) "Data stochasticity and model parametrisation impact the performance of species distribution models: insights from a simulation study". Peer Community Journal 3:e34.  [DOI (open access paper)](https://peercommunityjournal.org/articles/10.24072/pcjournal.263/).
