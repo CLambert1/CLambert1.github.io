@@ -16,7 +16,7 @@ Peer-reviewed journals
 -----
 **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Submitted to Journal of Animal Ecology.
 
-**Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Correcting detection bias in mapping the abundance of marine megafauna using a Mediterranean seabird as an example". IES JMS, fsae058. [DOI (open access paper)](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616)
+**Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Correcting detection bias in mapping the abundance of marine megafauna using a Mediterranean seabird as an example". ICES JMS, fsae058. [DOI (open access paper)](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616)
 
 Abucay et al. (2023) "Scientific knowledge gaps on the biology of non-fish marine species across European Seas". Front. Mar. Sci. 10. [DOI (open access paper)](https://www.frontiersin.org/articles/10.3389/fmars.2023.1198137/abstract)
 
