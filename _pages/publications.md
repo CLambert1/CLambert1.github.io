@@ -14,15 +14,15 @@ author_profile: true
 
 Peer-reviewed journals
 -----
-**Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between movement- and observation-based species distribution models - A simulation experiment". Submitted to Journal of Animal Ecology.
+**Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Submitted to Journal of Animal Ecology.
 
-**Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Detection bias, ensemble modelling and uncertainty propagation: Implications for marine megafauna abundance assessment and conservation using a Mediterranean seabird as example". Ices JMS. 
+**Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Correcting detection bias in mapping the abundance of marine megafauna using a Mediterranean seabird as an example". IES JMS, fsae058. [DOI (open access paper)](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616)
 
 Abucay et al. (2023) "Scientific knowledge gaps on the biology of non-fish marine species across European Seas". Front. Mar. Sci. 10. [DOI (open access paper)](https://www.frontiersin.org/articles/10.3389/fmars.2023.1198137/abstract)
 
-**Lambert C.** and Virgili A. (2023) "Data stochasticity and model parametrisation impact the performance of species distribution models: insights from a simulation study". Peer Community Journal 3:e34.  [DOI (open access paper)](https://peercommunityjournal.org/articles/10.24072/pcjournal.263/).
+**Lambert C.** and Virgili A. (2023) "Data stochasticity and model parametrisation impact the performance of species distribution models: insights from a simulation study". Peer Community Journal, 3:e34.  [DOI (open access paper)](https://peercommunityjournal.org/articles/10.24072/pcjournal.263/).
 
-**Lambert C.**, Authier M., Blanchard A., Dorémus G., Laran S., Van Canneyt O., Spitz J. (2022) "Delayed response to environmental conditions and infra-seasonal dynamics of the short-beaked common dolphin distribution". Royal Society Open Science. [DOI (open access paper)](https://dx.doi.org/10.1098/rsos.220379)
+**Lambert C.**, Authier M., Blanchard A., Dorémus G., Laran S., Van Canneyt O., Spitz J. (2022) "Delayed response to environmental conditions and infra-seasonal dynamics of the short-beaked common dolphin distribution". Royal Society Open Science, 9:220379. [DOI (open access paper)](https://dx.doi.org/10.1098/rsos.220379)
 
 **Lambert C.**, Fort J. (2022) "No evidence that seasonal changes in large-scale environmental conditions drive migration in seabirds". Journal of Animal Ecology 91, 9:1813--1825. [DOI](https://doi.org/10.1111/1365-2656.13759); [link to author version](https://www.researchgate.net/publication/361220867_No_evidence_that_seasonal_changes_in_large-scale_environmental_conditions_drive_migration_in_seabirds).
 
@@ -30,7 +30,7 @@ Abucay et al. (2023) "Scientific knowledge gaps on the biology of non-fish marin
 
 **Lambert C.**, Authier M., Dorémus G., Laran S., Panigada S., Spitz J., Van Canneyt O., Ridoux V. (2020) "Setting the scene for Mediterranean litterscape management: the first basin-scale quantification and mapping of floating marine debris". Environmental Pollution, 263, Part A: 114430. [DOI](https://www.sciencedirect.com/science/article/pii/S0269749120305704); [link to author version](https://www.researchgate.net/publication/340262338_Setting_the_scene_for_Mediterranean_litterscape_management_The_first_basin-scale_quantification_and_mapping_of_floating_marine_debris).
 
-**Lambert C.**, Authier M., Dorémus G., Gilles A., Hammond P., Laran S., Ricart A., Ridoux V., Scheidat M., Spitz J., Van Canneyt O. (2019) "The effect of a multi-target protocol on cetacean detection and abundance estimation in aerial surveys". Royal Society Open Science 6: 190296. [DOI (open access paper)](https://royalsocietypublishing.org/doi/10.1098/rsos.190296).
+**Lambert C.**, Authier M., Dorémus G., Gilles A., Hammond P., Laran S., Ricart A., Ridoux V., Scheidat M., Spitz J., Van Canneyt O. (2019) "The effect of a multi-target protocol on cetacean detection and abundance estimation in aerial surveys". Royal Society Open Science, 6: 190296. [DOI (open access paper)](https://royalsocietypublishing.org/doi/10.1098/rsos.190296).
 
 Pettex E., **Lambert C.**, Fort J., Dorémus G., Ridoux V. (2019) "Spatial segregation between immatures and adults in a pelagic seabird suggests age-related competition". Journal of Avian Biology, 50, 5. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/jav.01935). *EP and CL contributed equally to this work
 
