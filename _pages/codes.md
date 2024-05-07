@@ -20,7 +20,7 @@ R packages
 
 Data repositories
 ----------------------
-2024	["Bridging the gap between movement- and observation-based species distribution models - A simulation experiment"]([https://zenodo.org/record/7924492](https://zenodo.org/records/10979066) Codes for a paper in review.
+2024	["Bridging the gap between movement- and observation-based species distribution models - A simulation experiment"](https://zenodo.org/records/10979066) Codes for a paper in review.
 
 2024 ["Scopoli's shearwater breeding colonies in the Mediterranean Sea"](https://doi.org/10.12770/24f5da71-d49b-4ccc-ae5a-3fac604b2551). Data from [Lambert et al. 2024 ICES JMS](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616).
 
