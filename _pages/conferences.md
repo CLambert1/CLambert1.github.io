@@ -19,6 +19,8 @@ Virgili A., **Lambert C.**, Pettex E., Ridoux V. (2015) “Habitat modelling pre
 
 Posters
 -----
+Hamard E. et al. (2024) "ATLANTIC WHALE DEAL Project: Mitigating Ship Strikes and Enhancing Carbon Sequestration in the Atlantic". In Annual conference of the ECS, Catania, Italy.
+
 **Lambert C.**, Virgili A., Pettex E., Delavenne J., Toison V., Blanck A., Ridoux V. (2016) “Habitat modelling predictions highlight seasonal relevance of MPAs for cetaceans”. In Annual Conference of the ECS, Funchal, Madeira.
 
 **Lambert C.**, Pettex E., Laran S., David L., Dorémus G., Stéphan É., van Canneyt O., Ridoux V. (2015) “Cetaceans ecological preferences in response to ocean seasonality”. In Annual Conference of the ECS, St Julian, Malta.
