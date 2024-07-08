@@ -14,7 +14,9 @@ author_profile: true
 
 Peer-reviewed journals
 -----
-**Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Submitted to Journal of Animal Ecology.
+**Lambert C.**, Damla Beton, Annette Broderick, Ana Cañadas, Cécile Dars, Andrew Di Matteo, Lola Gilbert, Joan Giménez, Ioannis Keramidas, Joan Navarro, Josie Palmer, Robin Snape, Laura Sparks, Jérôme Spitz, Athanassios C. Tsikliras, Auriane Virgili, and David Grémillet (submitted) "Where the big things eat in a troubled sea – Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". Submitted to PNAS. 
+
+**Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (in review) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Submitted to Ecography.
 
 **Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Correcting detection bias in mapping the abundance of marine megafauna using a Mediterranean seabird as an example". ICES JMS, fsae058. [DOI (open access paper)](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616)
 
