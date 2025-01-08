@@ -14,7 +14,7 @@ author_profile: true
 
 Peer-reviewed journals
 -----
-20 - **Lambert C.**, Damla Beton, Annette Broderick, Ana Cañadas, Cécile Dars, Andrew Di Matteo, Lola Gilbert, Joan Giménez, Ioannis Keramidas, Joan Navarro, Josie Palmer, Robin Snape, Laura Sparks, Jérôme Spitz, Athanassios C. Tsikliras, Auriane Virgili, and David Grémillet (submitted) "Where the big things eat in a troubled sea – Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". Submitted to PNAS. 
+20 - **Lambert C.**, Annette Broderick, Damla Beton, Ana Cañadas, Cécile Dars, Andrew Di Matteo, Lola Gilbert, Joan Giménez, Ioannis Keramidas, Joan Navarro, Josie Palmer, Robin Snape, Laura Sparks, Jérôme Spitz, Athanassios C. Tsikliras, Auriane Virgili, and David Grémillet (submitted) "Where the big things eat in a troubled sea – Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". Submitted to PNAS. 
 
 19 - **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (2025) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Journal of Biogeography. [DOI (open access paper)](http://doi.org/10.1111/jbi.15078)
 
