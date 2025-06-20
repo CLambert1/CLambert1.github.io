@@ -50,6 +50,9 @@ MSc, EcoLab, Jan--Mar2012
 
 Scientific surveys
 -----
+Marine megafauna observer - 2022--current
+Vantage point survey of bottlenose dolphins presence and distribution in Côtes d'Armor (Brittany, France)
+
 Marine megafauna observer - 2019
 SPEE survey – Pertuis Charentais, Estuaire de la Gironde: dedicated aerial census of marine megafauna
 
