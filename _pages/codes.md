@@ -20,9 +20,9 @@ R packages
 
 Data repositories
 ----------------------
-2025	["Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean"]([https://zenodo.org/records/10979066](https://zenodo.org/records/14275308)) Codes from [Lambert et al. 2025 PNAS](https://www.pnas.org/doi/10.1073/pnas.2412845122).
+2025	["Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean"](https://zenodo.org/records/14275308). Codes from [Lambert et al. 2025 PNAS](https://www.pnas.org/doi/10.1073/pnas.2412845122).
 
-2024	["Bridging the gap between movement- and observation-based species distribution models - A simulation experiment"](https://zenodo.org/records/10979066) Codes from [Lambert et al. 2024 JBI](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15078).
+2024	["Bridging the gap between movement- and observation-based species distribution models - A simulation experiment"](https://zenodo.org/records/10979066). Codes from [Lambert et al. 2024 JBI](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15078).
 
 2024 ["Scopoli's shearwater breeding colonies in the Mediterranean Sea"](https://doi.org/10.12770/24f5da71-d49b-4ccc-ae5a-3fac604b2551). Data from [Lambert et al. 2024 ICES JMS](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616).
 
