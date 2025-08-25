@@ -9,7 +9,7 @@ I authored various R packages either on [GitHub](https://github.com/CLambert1) o
 
 R packages
 -----------
-<img src="/images/logo_dyngamtools.png" alt="dyngamtools" width="5%" height="auto"> Lambert, C. 2024. [**dyngamtools**: A suite of tools to build temporally dynamic Species Distribution Models]([https://clambert1.github.io/virtualecologist](https://gitlab.univ-lr.fr/marine_spatial_ecology/dyngamtools))
+<img src="/images/logo_dyngamtools.png" alt="dyngamtools" width="5%" height="auto"> Lambert, C. 2024. [**dyngamtools**: A suite of tools to build temporally dynamic Species Distribution Models](https://gitlab.univ-lr.fr/marine_spatial_ecology/dyngamtools)
 
 <img src="/images/logo_simtools.png" alt="simtools" width="5%" height="auto"> Lambert, C. 2024. [**virtualecologist**: A suite of tools to simulate virtual ecological systems, from environment, to animals and surveys](https://clambert1.github.io/virtualecologist)
 
