@@ -16,7 +16,7 @@ Peer-reviewed journals
 -----
 20 - **Lambert C.**, Annette Broderick, Damla Beton, Ana Cañadas, Cécile Dars, Andrew Di Matteo, Lola Gilbert, Joan Giménez, Ioannis Keramidas, Joan Navarro, Josie Palmer, Robin Snape, Laura Sparks, Jérôme Spitz, Athanassios C. Tsikliras, Auriane Virgili, and David Grémillet (2025) "Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". PNAS 122 (6) e2412845122. [DOI (open access paper)](https://www.pnas.org/doi/10.1073/pnas.2412845122)
 
-19 - **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (2025) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Journal of Biogeography. [DOI (open access paper)](http://doi.org/10.1111/jbi.15078)
+19 - **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (2025) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Journal of Biogeography 52 (4) e15078. [DOI (open access paper)](http://doi.org/10.1111/jbi.15078)
 
 18 - **Lambert C.**, Cecere J., De Pascalis F. and Grémillet D. (2024) "Correcting detection bias in mapping the abundance of marine megafauna using a Mediterranean seabird as an example". ICES JMS, fsae058. [DOI (open access paper)](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616)
 
