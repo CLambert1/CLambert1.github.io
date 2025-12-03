@@ -14,7 +14,9 @@ author_profile: true
 
 Peer-reviewed journals
 -----
-20 - **Lambert C.**, Annette Broderick, Damla Beton, Ana Cañadas, Cécile Dars, Andrew Di Matteo, Lola Gilbert, Joan Giménez, Ioannis Keramidas, Joan Navarro, Josie Palmer, Robin Snape, Laura Sparks, Jérôme Spitz, Athanassios C. Tsikliras, Auriane Virgili, and David Grémillet (2025) "Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". PNAS 122 (6) e2412845122. [DOI (open access paper)](https://www.pnas.org/doi/10.1073/pnas.2412845122)
+21 - Virgili A., Houles L., Dorémus G., **Lambert C.**, Laran S., Spitz J., Van Canneyt O., Bañuls R., Ridoux V. (2026) "Cetaceans exhibit region-specific habitat preferences across tropical waters". Global Ecology and Conservation, Volume 65, e04001. [DOI (open access paper](https://doi.org/10.1016/j.gecco.2025.e04001) 
+
+20 - **Lambert C.**, A. Broderick, D. Beton, A. Cañadas, C. Dars, A. Di Matteo, L. Gilbert, J. Giménez, I. Keramidas, J. Navarro, J. Palmer, R. Snape, L. Sparks, J. Spitz, A. C. Tsikliras, A. Virgili, and D. Grémillet (2025) "Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". PNAS 122 (6) e2412845122. [DOI (open access paper)](https://www.pnas.org/doi/10.1073/pnas.2412845122)
 
 19 - **Lambert C.**, Bonnet-Lebrun A.-S. and Grémillet D. (2025) "Bridging the gap between Lagrangian and Eulerian species distribution models for abundance estimation - A simulation experiment". Journal of Biogeography 52 (4) e15078. [DOI (open access paper)](http://doi.org/10.1111/jbi.15078)
 
