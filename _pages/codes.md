@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-I authored various R packages either on [GitHub](https://github.com/CLambert1) or on the [marine spatial ecoloy group from La Rochelle Université GItLab's](https://gitlab.univ-lr.fr/marine_spatial_ecology/). I also list here the various repositories created to store paper-associated R codes and data.  
+I authored various R packages either on [GitHub](https://github.com/CLambert1) or on the [marine spatial ecoloy group from La Rochelle Université GitLab's](https://gitlab.univ-lr.fr/marine_spatial_ecology/). I also list here the various repositories created to store paper-associated R codes and data.  
 
 R packages
 -----------
@@ -26,9 +26,9 @@ Data repositories
 
 2024	["Bridging the gap between movement- and observation-based species distribution models - A simulation experiment"](https://zenodo.org/records/10979066). Codes from [Lambert et al. 2024 JBI](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15078).
 
-2024 ["Scopoli's shearwater breeding colonies in the Mediterranean Sea"](https://doi.org/10.12770/24f5da71-d49b-4ccc-ae5a-3fac604b2551). Data from [Lambert et al. 2024 ICES JMS](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616).
+2024 ["Scopoli's shearwater breeding colonies in the Mediterranean Sea"](https://doi.org/10.12770/24f5da71-d49b-4ccc-ae5a-3fac604b2551). Result from [Lambert et al. 2024 ICES JMS](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616).
 
-2024 ["Scopoli's shearwater abundance distribution in the Mediterranean Sea"](https://doi.org/10.12770/d5bd5c63-b32b-4c55-83f0-9bd678a2ea76). Data from [Lambert et al. 2024 ICES JMS](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616).
+2024 ["Scopoli's shearwater abundance distribution in the Mediterranean Sea"](https://doi.org/10.12770/d5bd5c63-b32b-4c55-83f0-9bd678a2ea76). Result from [Lambert et al. 2024 ICES JMS](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae058/7665925#448597616).
 
 2023	["Data stochasticity and model parametrisation impact the performance of species distribution models: insights from a simulation study"](https://zenodo.org/record/7544441). Codes from [Lambert et al., 2023 PCJ](https://peercommunityjournal.org/articles/10.24072/pcjournal.263/).
 
