@@ -83,3 +83,7 @@ aerial surveys and ecosystemic model outputs". MSc thesis, Université Toulouse 
 indicatrices de qualité du milieu". MSc thesis, Université Toulouse III Paul Sabatier.
 
 
+Other
+-----
+1 - **Lambert C.** 2025 "Measuring the sensitivity of Density Surface Models to partially biased or unknown Effective Strip Widths". [DOI](https://hal.science/hal-05264857v1)
+
