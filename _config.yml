@@ -185,9 +185,6 @@ collections:
   conference:
     output: true
     permalink: /:collection/:path/
-  dissemination:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -233,15 +230,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _dissemination
-  - scope:
-      path: ""
-      type: dissemination
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
