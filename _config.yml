@@ -196,15 +196,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _dissemination
-  - scope:
-      path: ""
-      type: dissemination
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _research
   - scope:
       path: ""
@@ -239,6 +230,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _dissemination
+  - scope:
+      path: ""
+      type: dissemination
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
