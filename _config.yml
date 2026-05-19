@@ -233,6 +233,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _ArtsScience
+  - scope:
+      path: ""
+      type: ArtsScience
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
