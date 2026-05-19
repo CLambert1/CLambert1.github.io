@@ -185,6 +185,9 @@ collections:
   conference:
     output: true
     permalink: /:collection/:path/
+  ArtsScience:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
