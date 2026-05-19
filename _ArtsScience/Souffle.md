@@ -9,7 +9,7 @@ location: "La Rochelle, France"
 
 **Dates**: 2026--2027
 
-A collaboration between LIENSs CNRS-La Rochelle Université, Cohabys (ADERA) and Emma Schnellbach ([autrice-illustratrice jeunesse](emma-schnellbach.com)). 
+A collaboration between Emma Schnellbach ([autrice-illustratrice jeunesse](emma-schnellbach.com)), Cohabys (ADERA, La Rochelle Université) and LIENSs (UMR 7266 CNRS-La Rochelle Université)
 
 A project funded by [PPR Océan Climat](https://www.ocean-climat.fr/Le-PPR).
 
