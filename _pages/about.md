@@ -18,7 +18,7 @@ I work on various marine species, especially megafauna like seabirds and cetacea
 
 Navigating the tabs above, you can find my complete [publication](publications.md) list, the [talks and posters](conferences.md) presented in international conferences, the details of past and current [research projects](research.html) and the list of [R packages and data repositories](codes.md) I authored.
 
-I am also interested by projects at the intersection of arts and sciences, in a search for communicating effectively and poetically the methods and results of our research, and engage with the civil society. Feel free to contact me for potential collaborations. 
+I am also interested by projects at the intersection of [arts and sciences](ArtsScience.html), in a search for communicating effectively and poetically the methods and results of our research, and engage with the civil society. Feel free to contact me for potential collaborations. 
 
 **Join the group**
 
