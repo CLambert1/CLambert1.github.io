@@ -11,7 +11,7 @@ Talks
 	
 Pettex E., *El Abdellaoui M.*, Dorémus G., Laran S., **Lambert C.** (2026) "Mapping the vulnerability of seabirds to offshore wind farms in French waters: a spatial planning tool". In World Seabird Conference, Hobart, Australia.
 
-**Lambert C., *Chero G.*, Authier M., Virgili A., Alves F., Correia A.M., De Loose E., Díaz López B., Fernandez M., Magalhaes S., Hamard E., Pérez Gil M., Rodríguez-Juncá A., Vázquez J.A., Saavedra C., Plard F. (2026) "Mapping whale-ship collision risk in the Eastern North-Atlantic: an integrated approach". In Annual Conference of the European Cetacean Society, Dundee, Scotland.
+**Lambert C.**, *Chero G.*, Authier M., Virgili A., Alves F., Correia A.M., De Loose E., Díaz López B., Fernandez M., Magalhaes S., Hamard E., Pérez Gil M., Rodríguez-Juncá A., Vázquez J.A., Saavedra C., Plard F. (2026) "Mapping whale-ship collision risk in the Eastern North-Atlantic: an integrated approach". In Annual Conference of the European Cetacean Society, Dundee, Scotland.
 	
 Pettex E., *El Abdellaoui M.*, Dorémus G., Laran S., **Lambert C.** (2026) "Mapping the vulnerability of marine mammals to offshore wind farms in French waters: a spatial planning tool". In Annual Conference of the European Cetacean Society, Dundee, Scotland.
 
