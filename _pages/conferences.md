@@ -37,7 +37,7 @@ Virgili A., Houles L., Dorémus G., **Lambert C.**, Laran S., Spitz J., Van Cann
 
 *El Abdellaoui M.*, **Lambert C.**, Pettex, M. (2025) "Mapping the vulnerability of seabirds and marine mammals to offshore wind farms in French waters: a spatial planning tool". In Conference on Wind energy and Wildlife impact, Montpellier, France
 
-Rodríguez Juncá A. et al. (2025) "Mitigating cetacean collisions in a critical area". In Annual conference of the ECS, Punta Delgada, Azores, Portugal.
+*Rodríguez Juncá A.* et al. (2025) "Mitigating cetacean collisions in a critical area". In Annual conference of the ECS, Punta Delgada, Azores, Portugal.
 
 Hamard E. et al. (2024) "ATLANTIC WHALE DEAL Project: Mitigating Ship Strikes and Enhancing Carbon Sequestration in the Atlantic". In Annual conference of the ECS, Catania, Italy.
 
