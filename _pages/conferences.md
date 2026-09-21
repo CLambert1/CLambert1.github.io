@@ -27,7 +27,7 @@ Virgili A., **Lambert C.**, Pettex E., Ridoux V. (2015) "Habitat modelling predi
 
 Posters
 -----
-*El Abdellaoui M.*, Pettex E., Dorémus G., Folliot B., Laran S., Martinez L., Michez N., **Lambert C.** (2026) "Mapping the vulnerability of seabirds to offshore wind farms in French waters: a spatial planning tool". In ICES Annual Science Conference, Brest, France.
+*El Abdellaoui M.*, Pettex E., Dorémus G., Folliot B., Laran S., Martinez L., Michez N., **Lambert C.** (2026) "Mapping the vulnerability of seabirds to offshore wind farms in French waters: a spatial planning tool". In ICES Annual Science Conference, Brest, France. DOI: 10.13140/RG.2.2.13715.44326
 
 *Diouf E.*, Authier M., *Chero G.*, Virgili A., **Lambert C.** (2026) "An individual-based model to assess whale-ship collision risk". In Annual Conference of the European Cetacean Society, Dundee, Scotland.		
 		
