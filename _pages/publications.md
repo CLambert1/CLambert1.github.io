@@ -14,6 +14,15 @@ author_profile: true
 
 Peer-reviewed journals
 -----
+
+25 - _El Abdellaoui M._, Pettex E., Dorémus G., Folliot B., Laran S., Martinez L., Michez N., **Lambert C.** (in prep) "Mapping the vulnerability of seabirds to offshore wind farms in French waters: a spatial planning tool"
+
+24 - _Rodríguez-Juncá A._; **Lambert C.**, Authier M., _Chero G_., Fernandez M., Marrero-Pérez J., Varo-Cruz N., Servidio .A, Saavedra C., Alves F., Correia A.M., Miranda D., Fais A., Pérez-Gil M., Vázquez J.A., Aguilar de Soto N. (in prep) "Collision lethality risk assessment for sperm whales in the Canary Islands: implications for conservation management"
+
+23 - **Lambert C.**, _Depierrefixe J._, Courbin N., Cañadas A., Di Matteo A., Sparks L., Virgili A., David G. (in review) "Mapping bycatch risk hotspots for marine megafauna in the Mediterranean: contrasting artisanal and industrial fisheries" in Ecological Applications
+
+22 - **Lambert C.** et al. (in revision) "Environmental heterogeneity and competition shape intraspecific variability of ecological niches in highly mobile marine species" in Global Ecology and Biogeography
+
 21 - Virgili A., Houles L., Dorémus G., **Lambert C.**, Laran S., Spitz J., Van Canneyt O., Bañuls R., Ridoux V. (2026) "Cetaceans exhibit region-specific habitat preferences across tropical waters". Global Ecology and Conservation, Volume 65, e04001. [DOI (open access paper)](https://doi.org/10.1016/j.gecco.2025.e04001) 
 
 20 - **Lambert C.**, A. Broderick, D. Beton, A. Cañadas, C. Dars, A. Di Matteo, L. Gilbert, J. Giménez, I. Keramidas, J. Navarro, J. Palmer, R. Snape, L. Sparks, J. Spitz, A. C. Tsikliras, A. Virgili, and D. Grémillet (2025) "Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean". PNAS 122 (6) e2412845122. [DOI (open access paper)](https://www.pnas.org/doi/10.1073/pnas.2412845122)
