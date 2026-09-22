@@ -57,7 +57,7 @@ Peer-reviewed journals
 
 5 - **Lambert C.**, Sophie L., David L., Dorémus G., Pettex E., van Canneyt O., Ridoux V. (2017) "How does ocean seasonality drive habitat preferences of highly mobile top predators? Part I: the north-western Mediterranean Sea". Deep Sea Research II, 141: 115-132. [DOI](https://www.sciencedirect.com/science/article/pii/S0967064516301734), [link to author version](https://www.researchgate.net/publication/304746013_How_does_ocean_seasonality_drive_habitat_preferences_of_highly_mobile_top_predators_Part_I_The_north-western_Mediterranean_Sea).
 
-4 - Virgili A., **Lambert C.**, Dorémus G., Pettex E., van Canneyt O., Ridoux V. (2017) Predicting seasonal variations in coastal seabird habitats in the English Channel and the Bay of Biscay". Deep Sea Research II, 141: 212-223. [DOI](https://www.sciencedirect.com/science/article/pii/S0967064517300954).
+4 - _Virgili A._, **Lambert C.**, Dorémus G., Pettex E., van Canneyt O., Ridoux V. (2017) Predicting seasonal variations in coastal seabird habitats in the English Channel and the Bay of Biscay". Deep Sea Research II, 141: 212-223. [DOI](https://www.sciencedirect.com/science/article/pii/S0967064517300954).
 
 3 - Pettex E., Laran S., Authier M., Blanck A., Dorémus G., Falchetto H., **Lambert C.**, Monestiez P., Stéfan E., Van Canneyt O., Ridoux V. (2017) "Using large scale survey to investigate seasonal variations in seabird distribution and abundance. Part II: the Bay of Biscay and the English Channel". Deep Sea Research II,
 141: 86-101. [DOI](https://www.sciencedirect.com/science/article/pii/S0967064516303630).
