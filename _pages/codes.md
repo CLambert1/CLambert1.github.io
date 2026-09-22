@@ -22,6 +22,11 @@ R packages
 
 Data repositories
 ----------------------
+
+2026 ["Mapping the vulnerability of cetaceans and seabirds to Offshore Wind Energy in French EEZ"](https://doi.org/10.17882/119779). Vulnerability maps from El Abdellaoui et al. in prep. 
+
+2026 ["Seasonal density distributions of cetaceans and seabirds in French EEZ'](https://doi.org/10.17882/119773). Species distribution maps from El Abdellaoui et al 2026 in prep.
+
 2025	["Energyscapes pinpoint marine megafauna feeding hotspots in the Mediterranean"](https://zenodo.org/records/14275308). Codes from [Lambert et al. 2025 PNAS](https://www.pnas.org/doi/10.1073/pnas.2412845122).
 
 2024	["Bridging the gap between movement- and observation-based species distribution models - A simulation experiment"](https://zenodo.org/records/10979066). Codes from [Lambert et al. 2024 JBI](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15078).
