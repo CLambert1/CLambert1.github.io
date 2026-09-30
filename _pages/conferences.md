@@ -21,7 +21,7 @@ Pettex E., *El Abdellaoui M.*, Dorémus G., Laran S., **Lambert C.** (2026) "Map
 
 **Lambert C.**, Authier M., Doray M., Dorémus G., Spitz J., Ridoux V. (2018) "A story of size and depth: predator-prey interactions in the Bay of Biscay". In Annual Conference of the ECS, La Spezia, Italia. 
 
-**Lambert C.**, Pettex E., Laran S., David L., Dorémus G., Stéphan É., van Canneyt O., Ridoux V. (2015) "Adjustment of seabirds ecological preferences in response to ocean variability". In World Seabird Conference, Capetown, South Africa.
+**Lambert C.**, Pettex E., Laran S., David L., Dorémus G., Stéphan É., van Canneyt O., Ridoux V. (2015) "Variations of seabirds ecological preferences in response to ocean seasonality". In World Seabird Conference, Capetown, South Africa.
 
 Virgili A., **Lambert C.**, Pettex E., Ridoux V. (2015) "Habitat modelling predictions: a tool for effectiveness assessment of MPAs network". In World Seabird Conference, Capetown, South Africa.
 
