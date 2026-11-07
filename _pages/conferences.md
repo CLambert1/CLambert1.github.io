@@ -12,7 +12,7 @@ Talks
 Pettex E., *El Abdellaoui M.*, Dorémus G., Laran S., **Lambert C.** (2026) "Mapping the vulnerability of seabirds to offshore wind farms in French waters: a spatial planning tool". In World Seabird Conference, Hobart, Australia.
 
 **Lambert C.**, *Chero G.*, Authier M., Virgili A., Alves F., Correia A.M., De Loose E., Díaz López B., Fernandez M., Magalhaes S., Hamard E., Pérez Gil M., Rodríguez-Juncá A., Vázquez J.A., Saavedra C., Plard F. (2026) "Mapping whale-ship collision risk in the Eastern North-Atlantic: an integrated approach". In Annual Conference of the European Cetacean Society, Dundee, Scotland.
-	
+
 Pettex E., *El Abdellaoui M.*, Dorémus G., Laran S., **Lambert C.** (2026) "Mapping the vulnerability of marine mammals to offshore wind farms in French waters: a spatial planning tool". In Annual Conference of the European Cetacean Society, Dundee, Scotland.
 
 **Lambert C.**, Cañadas A., Spitz J., Virgili A. and Grémillet D. (2023) "Cetacean energyscapes and biomass consumption of forage resources in the Mediterranean Bassin". In Annual Conference of the ECS, O Grove, Spain. 
@@ -24,6 +24,7 @@ Pettex E., *El Abdellaoui M.*, Dorémus G., Laran S., **Lambert C.** (2026) "Map
 **Lambert C.**, Pettex E., Laran S., David L., Dorémus G., Stéphan É., van Canneyt O., Ridoux V. (2015) "Variations of seabirds ecological preferences in response to ocean seasonality". In World Seabird Conference, Capetown, South Africa.
 
 Virgili A., **Lambert C.**, Pettex E., Ridoux V. (2015) "Habitat modelling predictions: a tool for effectiveness assessment of MPAs network". In World Seabird Conference, Capetown, South Africa.
+
 
 Posters
 -----
@@ -44,5 +45,10 @@ Hamard E. et al. (2024) "ATLANTIC WHALE DEAL Project: Mitigating Ship Strikes an
 **Lambert C.**, Virgili A., Pettex E., Delavenne J., Toison V., Blanck A., Ridoux V. (2016) "Habitat modelling predictions highlight seasonal relevance of MPAs for cetaceans". In Annual Conference of the ECS, Funchal, Madeira.
 
 **Lambert C.**, Pettex E., Laran S., David L., Dorémus G., Stéphan É., van Canneyt O., Ridoux V. (2015) "Cetaceans ecological preferences in response to ocean seasonality". In Annual Conference of the ECS, St Julian, Malta.
+
+
+Workshops
+-----
+**Lambert C.**, *Chero G.*, Authier M, Virgili A., Alves F., Correia A.M., De Loose E., Dias-Lopez B., Fernandez M., Magalhaes S., Hamard E., Perez-Gil M., Rodrigues-Junca A., Vazquez J.A., Saavedra C., Plard F. "Mapping whale-vessels collision risk in the North-Eastern Atlantic: an integrated approach”. In Aguilar de Soto, N., Bouchard, A., Foxall, D., Rodríguez-Juncá, A. & Rubio, C. (Editors) (2026). Advancing towards mitigation of collision risk for marine traffic (Workshop report). 37th European Cetacean Society Conference. Dundee, Scotland.
 
 **Lambert C.**, Mannocci L, Lehodey P., Ridoux V. (2014) “Predicting cetacean habitats from their energetic needs and the distribution of their prey in two contrasted tropical regions”. In IMBER, Bergen, Norway
