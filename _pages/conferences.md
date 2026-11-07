@@ -46,9 +46,9 @@ Hamard E. et al. (2024) "ATLANTIC WHALE DEAL Project: Mitigating Ship Strikes an
 
 **Lambert C.**, Pettex E., Laran S., David L., Dorémus G., Stéphan É., van Canneyt O., Ridoux V. (2015) "Cetaceans ecological preferences in response to ocean seasonality". In Annual Conference of the ECS, St Julian, Malta.
 
+**Lambert C.**, Mannocci L, Lehodey P., Ridoux V. (2014) “Predicting cetacean habitats from their energetic needs and the distribution of their prey in two contrasted tropical regions”. In IMBER, Bergen, Norway
+
 
 Workshops
 -----
 **Lambert C.**, *Chero G.*, Authier M, Virgili A., Alves F., Correia A.M., De Loose E., Dias-Lopez B., Fernandez M., Magalhaes S., Hamard E., Perez-Gil M., Rodrigues-Junca A., Vazquez J.A., Saavedra C., Plard F. "Mapping whale-vessels collision risk in the North-Eastern Atlantic: an integrated approach”. In Aguilar de Soto, N., Bouchard, A., Foxall, D., Rodríguez-Juncá, A. & Rubio, C. (Editors) (2026). Advancing towards mitigation of collision risk for marine traffic (Workshop report). 37th European Cetacean Society Conference. Dundee, Scotland.
-
-**Lambert C.**, Mannocci L, Lehodey P., Ridoux V. (2014) “Predicting cetacean habitats from their energetic needs and the distribution of their prey in two contrasted tropical regions”. In IMBER, Bergen, Norway
